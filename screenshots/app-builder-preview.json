@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Flashbox",
+      "hasCanvas": false,
+      "bodyTextLen": 490,
+      "bodyTextHash": "7280fa598572e17e6705535e41535416db1746f159a4ba38165a088494bdea51",
+      "bodyTextPrefix": "PHOTO BOOTH Flashbox Live preview, film looks, a countdown, and ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Flashbox",
+      "hasCanvas": false,
+      "bodyTextLen": 422,
+      "bodyTextHash": "9947863abb385fcdfce7eb31008ae4d98a305b767aa5d83c33f9b3c05033eac0",
+      "bodyTextPrefix": "PHOTO BOOTH Flashbox Step into the booth Open your camera for a ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
